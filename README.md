@@ -2,7 +2,7 @@
 title: Sentiment Engine
 emoji: 🎭
 colorFrom: purple
-colorTo: teal
+colorTo: green
 sdk: streamlit
 sdk_version: 1.35.0
 app_file: app.py
@@ -26,4 +26,4 @@ streamlit run app.py
 ```
 
 ## Live demo
-[View on Hugging Face Spaces](PASTE_YOUR_LINK_HERE)
+https://vishnuvardhanreddy12-sentiment-engine.hf.space
